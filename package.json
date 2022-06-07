@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Test test 2",
+  "main": "app.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulooliveira152012/jest-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulooliveira152012/jest-RPG/issues"
+  },
+  "homepage": "https://github.com/paulooliveira152012/jest-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
