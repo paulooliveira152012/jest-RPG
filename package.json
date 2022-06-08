@@ -19,5 +19,8 @@
   "homepage": "https://github.com/paulooliveira152012/jest-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
